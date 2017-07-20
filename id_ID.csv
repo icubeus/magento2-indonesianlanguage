@@ -9490,12 +9490,12 @@ Search,Search,module,Magento_Sales
 "Credit memo for your %store_name order","Credit memo for your %store_name order",module,Magento_Sales
 "%name,","%name,",module,Magento_Sales
 "Thank you for your order from %store_name.","Thank you for your order from %store_name.",module,Magento_Sales
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",module,Magento_Sales
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Kamu bisa melihat status order kamu dengan <a href=""%account_url"">logging into your account</a>.",module,Magento_Sales
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Jika kamu punya pertanyaan tentang order kamu, silahkan email ke <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","or call us at <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
 "Our hours are <span class=""no-link"">%store_hours</span>.","Our hours are <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",module,Magento_Sales
-"Billing Info","Billing Info",module,Magento_Sales
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Credit Memo kamu #%creditmemo_id untuk Order #%order_id",module,Magento_Sales
+"Billing Info","Informasi Penagihan",module,Magento_Sales
 "Shipping Info","Shipping Info",module,Magento_Sales
 "Update to your %store_name credit memo","Update to your %store_name credit memo",module,Magento_Sales
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",module,Magento_Sales
@@ -12536,8 +12536,8 @@ Debug,Debug,module,Magento_Worldpay
 "Set Order Status to Suspected Fraud for CVV","Set Order Status to Suspected Fraud for CVV",module,Magento_Worldpay
 "Set Order Status to Suspected Fraud for Postcode AVS","Set Order Status to Suspected Fraud for Postcode AVS",module,Magento_Worldpay
 "Sort Order","Sort Order",module,Magento_Worldpay
-"Payment was canceled.","Payment was canceled.",module,Magento_Worldpay
-"Your payment has been successfully processed by our shop system.","Your payment has been successfully processed by our shop system.",module,Magento_Worldpay
+"Payment was canceled.","Pembayaran telah dibatalkan",module,Magento_Worldpay
+"Your payment has been successfully processed by our shop system.","Pembayaran kamu telah diproses oleh system.",module,Magento_Worldpay
 Summary,Ringkasan,theme,frontend/Magento/blank
 "Account Dashboard","Dashboard Akun",theme,frontend/Magento/blank
 "Account Information","Informasi Akun",theme,frontend/Magento/blank
@@ -12563,42 +12563,42 @@ Password:,"Kata Sandi:",theme,frontend/Magento/luma
 "When you sign in to your account, you will be able to:","Saat Anda melakukan Sign in ke dalam akun Anda, Anda akan mendapatkan:",theme,frontend/Magento/luma
 "Quick Checkout","Checkout Cepat",theme,frontend/Magento/luma
 "Proceed through checkout faster","Proceed through checkout faster",theme,frontend/Magento/luma
-"Order Status","Order Status",theme,frontend/Magento/luma
-"Check the status of orders","Check the status of orders",theme,frontend/Magento/luma
-"Manage Addresses","Manage Addresses",theme,frontend/Magento/luma
-"Store alternative addresses","Store alternative addresses",theme,frontend/Magento/luma
-"For shipping to multiple family members and friends","For shipping to multiple family members and friends",theme,frontend/Magento/luma
-"Order History","Order History",theme,frontend/Magento/luma
-"View past orders","View past orders",theme,frontend/Magento/luma
+"Order Status","Status Order",theme,frontend/Magento/luma
+"Check the status of orders","Check orders status",theme,frontend/Magento/luma
+"Manage Addresses","Pengaturan Alamat",theme,frontend/Magento/luma
+"Store alternative addresses","Alamat alternatives toko",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","Untuk pengiriman beberapa anggota keluarga dan teman",theme,frontend/Magento/luma
+"Order History","Sejarah Order",theme,frontend/Magento/luma
+"View past orders","Tampilkan orders lama",theme,frontend/Magento/luma
 Footer,Footer,theme,frontend/Magento/luma
-"About Us","About Us",theme,frontend/Magento/luma
+"About Us","Tentang kami",theme,frontend/Magento/luma
 "Customer Service","Customer Service",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
-"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
-"Thank you for your order from %store_name.","Thank you for your order from %store_name.",theme,frontend/Magento/luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend/Magento/luma
-"Billing Info","Billing Info",theme,frontend/Magento/luma
-"Shipping Info","Shipping Info",theme,frontend/Magento/luma
-"Payment Method","Payment Method",theme,frontend/Magento/luma
-"Shipping Method","Shipping Method",theme,frontend/Magento/luma
-"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",theme,frontend/Magento/luma
-"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend/Magento/luma
-"Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend/Magento/luma
-"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Jam operasional:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Credit memo untuk order toko %store_name",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Terima kasih untuk order kamu dari %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Kamu bisa melihat status order kamu dengan <a href=""%account_url"">log in ke akun kamu</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Jika kamu punya pertanyaan tentang order kamu, silahkan email ke <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Credit Memo kamu #%creditmemo_id untuk Order #%order_id",theme,frontend/Magento/luma
+"Billing Info","Informasi Penagihan",theme,frontend/Magento/luma
+"Shipping Info","Informasi Pengiriman",theme,frontend/Magento/luma
+"Payment Method","Metode Pembayaran",theme,frontend/Magento/luma
+"Shipping Method","Metode Pengiriman",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Update credit memo toko %store_name ",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Order kamu #%increment_id sudah diperbaharui dengan status <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Invoice untuk order toko %store_name",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Invoice kamu #%invoice_id untuk Order #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Update invoice toko %store_name",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Konfirmasi order toko %store_name",theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",theme,frontend/Magento/luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Setelah paket kamu dikirim kita akan mengirim Nomor Resi pengiriman.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Order kamu <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
-"Update to your %store_name order","Update to your %store_name order",theme,frontend/Magento/luma
-"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend/Magento/luma
-"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend/Magento/luma
-"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
-"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
-"Account Dashboard","Account Dashboard",theme,frontend/Magento/luma
-"Address Book","Address Book",theme,frontend/Magento/luma
-"Account Information","Account Information",theme,frontend/Magento/luma
+"Update to your %store_name order","Update order toko %store_name",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Order toko %store_name sudah dikirim",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Konfirmasi pengiriman kamu ada dibawah ini, Terima kasih.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Nomer pengiriman #%shipment_id untuk order #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Update pengiriman toko %store_name",theme,frontend/Magento/luma
+"Account Dashboard","Beranda Akun",theme,frontend/Magento/luma
+"Address Book","Buku Alamat",theme,frontend/Magento/luma
+"Account Information","Informasi Akun",theme,frontend/Magento/luma
