@@ -2,7 +2,7 @@
   "name": "icubeus/magento2-indonesianlanguage",
   "description": "Indonesian language package for Magento 2",
   "type": "magento2-language",
-  "version": "1.0.0",
+  "version": "3.5.0",
   "license": [
     "MIT"
   ],
